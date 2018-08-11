@@ -19,7 +19,7 @@ We are the premier no-root Android ad blocking solution. We are the first to blo
 Our app works by creating an on-device VPN to filter out network requests before they reach your phone. This works in conjunction with our SSL certificate. Using the VPN alone we can only filter out regular requests and not encrypted ones (such as YouTube and many others). When the app is activated you may just let it run in the background and do it's magic.
 
 ## Releases
-* Latest stable release: [8.0.0.507848](https://github.com/SEVENNetworks/AdClear/releases/tag/v8.0.0.507848)
+* Latest stable release: [8.0.0.508114](https://github.com/SEVENNetworks/AdClear/releases/tag/v8.0.0.508114)
 
 # What about SEVEN Networks?
 SEVEN is a battle tested company with a long name in the game. Seven Networks helped bring [Microsoft Outlook to Android](http://www.androidcentral.com/microsoft-partners-seven-networks-update-outlookcom-app "SEVEN partners with Microsoft"). Not to name drop but we also have partnered with [Samsung](http://www.seven.com/press_releases/2010/SEVENSignsGlobalAgreementwithSamsungElectronicstoPowerIntegratedMessagingandSocialNetworkingonMobileDevices.php "SEVEN partners with Samsung"), [Verizon](http://www.seven.com/press_releases/2011/VerizonWirelessExpandsPushServicesUsingSEVENNetworksTechnology.php "SEVEN partners with Verizon"), and many others in the past.
