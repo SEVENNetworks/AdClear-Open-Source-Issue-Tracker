@@ -1,26 +1,36 @@
-AdClear
-=======
-Welcome to our open source bug tracker! We have heard many users request a more open source platform so we would like to tell our users how to get involved.
+# AdClear for Android
 
-### You can get involved by:
-* Reporting bugs you see while using the app.
-* Reporting advertisements still appearing within the apps you use.
-* Report if we are blocking something essential to your app.
-* Report performance issues.
-* Report improvements you would like to see in our new release
+AdClear is the premier non-root adblocker for Android users. AdClear’s technology filters out advertisers before they invade your browsing or app experience. 
 
-## Feel free to discuss!
-We have made our own subreddit for discussion about AdClear and ad blocking for Android devices! Join us at [/r/AdBlockerForAndroid](https://www.reddit.com/r/adblockerforandroid/ "/r/AdBlockerForAndroid").
+Our adblocker is the best in the market at blocking YouTube ads, and we’re the first on Android to block encrypted ads. As a bonus, AdClear's Firewall and Doze features combined with ad blocker saves battery, bandwidth, and loading times for users, and keeps users safe from malware-infected ads. The best part: it's free. If you want to keep advertisers out, AdClear's here for you.
 
-# What is AdClear and what sets it apart?
-We are the premier no-root Android ad blocking solution. We are the first to block YouTube ads on Android. We are also the quickest to update and evolve with the ad companies. You can get our app [from our website](https://www.seven.com/android-adblocker-download.php "Download AdClear direct"). Why settle for less than the best adblocker for Android?
+> **NOTE:** AdClear is not available in the Google Play Store you can download from [GitHub below](#releases) or our website at [www.seven.com](https://www.seven.com/android-adblocker-download.php)
 
-## On to the technology
-Our app works by creating an on-device VPN to filter out network requests before they reach your phone. This works in conjunction with our SSL certificate. Using the VPN alone we can only filter out regular requests and not encrypted ones (such as YouTube and many others). When the app is activated you may just let it run in the background and do it's magic.
+<a name="releases">
 
 ## Releases
+
 * Latest stable release: [9.1.1.323-ga](https://github.com/SEVENNetworks/AdClear/releases/tag/v9.1.1.323-ga)
+* Latest beta release: [9.2.0.387-beta](https://github.com/SEVENNetworks/AdClear/releases/tag/v9.2.0.387-beta)
 
-# What about SEVEN Networks?
-SEVEN is a battle tested company with a long name in the game. Seven Networks helped bring [Microsoft Outlook to Android](http://www.androidcentral.com/microsoft-partners-seven-networks-update-outlookcom-app "SEVEN partners with Microsoft"). Not to name drop but we also have partnered with [Samsung](http://www.seven.com/press_releases/2010/SEVENSignsGlobalAgreementwithSamsungElectronicstoPowerIntegratedMessagingandSocialNetworkingonMobileDevices.php "SEVEN partners with Samsung"), [Verizon](http://www.seven.com/press_releases/2011/VerizonWirelessExpandsPushServicesUsingSEVENNetworksTechnology.php "SEVEN partners with Verizon"), and many others in the past.
+## Open Source Bug Tracker
 
+While AdClear is not an Open Source application by itself, we want to provide a way to work with the community on issues within the application as well as provide transparency for what we are currently working on. To do this, we use GitHub as an Open Source bug tracker for community-driven issues.
+
+### How to contribute
+* Request a feature you would like to see in AdClear
+* Report bugs you notice while using the app
+* Report advertisements still appearing within the apps or websites you use
+* Report if AdClear is breaking an app or website that you use
+* Ask questions you have about AdClear
+
+All of the above can be submitted through our [Issue Tracker](https://github.com/SEVENNetworks/AdClear/issues)
+
+## Community
+We are have created several channels to discuss and keep up to date with AdClear
+
+[Reddit](https://www.reddit.com/r/adblockerforandroid/) | [Forum](https://forum.seven.com/) | [Issue Tracker](https://github.com/SEVENNetworks/AdClear/issues) | [Facebook](https://www.facebook.com/SEVENNetworks/)
+
+## Support
+
+We provide in-app support within AdClear. Additionally, you can check out our [FAQ](https://www.seven.com/adclear-faq.php) or emails us at feedback@seven.com
