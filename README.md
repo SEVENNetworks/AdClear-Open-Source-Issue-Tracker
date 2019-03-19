@@ -11,7 +11,7 @@ Our adblocker is the best in the market at blocking YouTube ads, and we’re the
 ## Releases
 
 * Latest stable release: [9.3.0.421-ga](https://github.com/SEVENNetworks/AdClear/releases/tag/v9.3.0.421-ga)
-* Latest beta release: [9.3.0.421-beta](https://github.com/SEVENNetworks/AdClear/releases/tag/v9.3.0.421-beta)
+* Latest beta release: [9.3.1.436-beta](https://github.com/SEVENNetworks/AdClear/releases/tag/v9.3.1.436-beta)
 
 ## Open Source Bug Tracker
 
